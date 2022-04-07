@@ -36,3 +36,8 @@
 
 
 
+7.This is the Edit module where user can change profile pic and other details.
+![Tag Home Page - Google Chrome 07_04_2022 8_57_19 am](https://user-images.githubusercontent.com/85536954/162114516-51bd1860-c235-463e-b1fc-8fb7ea7f28f6.png)
+
+
+
