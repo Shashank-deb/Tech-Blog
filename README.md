@@ -18,3 +18,7 @@
 3.This is the Login Page of Registred User.
 ![Login Page - Google Chrome 07_04_2022 8_48_34 am](https://user-images.githubusercontent.com/85536954/162113480-637f2467-a083-40d8-8ef1-ad3637570acd.png)
 
+
+4.This is the Post Module of the Website.
+![Tag Home Page - Google Chrome 07_04_2022 8_49_49 am](https://user-images.githubusercontent.com/85536954/162113594-0e6aff98-56be-4d5e-a5c7-dc2e2216b456.png)
+
