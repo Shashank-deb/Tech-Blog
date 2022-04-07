@@ -7,5 +7,5 @@
 * A little bit of ajax ,jquery is used for the dynamic response.
 
 
-This is the Home Page of the Tech-Blog
+1.This is the Home Page of the Tech-Blog
 ![Tech Blog - Google Chrome 07_04_2022 8_45_23 am](https://user-images.githubusercontent.com/85536954/162113151-50532234-9893-4adc-aee6-279ea6beff2e.png)
