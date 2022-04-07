@@ -27,3 +27,9 @@
 ![Tag Home Page - Google Chrome 07_04_2022 8_52_55 am](https://user-images.githubusercontent.com/85536954/162113958-f14d5a15-baca-42ab-9c6d-27a5101476f9.png)
 
 
+
+6.This is the Profile Section of user where user can edit its Details.
+![Tag Home Page - Google Chrome 07_04_2022 8_55_20 am](https://user-images.githubusercontent.com/85536954/162114207-f07e366c-91e8-49e0-b512-951fb93b0155.png)
+
+
+
