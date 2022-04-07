@@ -22,3 +22,8 @@
 4.This is the Post Module of the Website.
 ![Tag Home Page - Google Chrome 07_04_2022 8_49_49 am](https://user-images.githubusercontent.com/85536954/162113594-0e6aff98-56be-4d5e-a5c7-dc2e2216b456.png)
 
+
+5.This is the Pop up Module where user post the content.
+![Tag Home Page - Google Chrome 07_04_2022 8_52_55 am](https://user-images.githubusercontent.com/85536954/162113958-f14d5a15-baca-42ab-9c6d-27a5101476f9.png)
+
+
